@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 
-<img src="[https://yourdomain.com/banner-image.png" alt="Banner" style="width:100%; border-radius:10px;](https://i.postimg.cc/dQjQf1p3/Brown-Black-Geometric-Personal-Branding-Linked-In-Banner.png)"/>
+<img src="https://i.postimg.cc/dQjQf1p3/Brown-Black-Geometric-Personal-Branding-Linked-In-Banner.png"/>
 # 👋 Hi, I'm Sadek Hossen
 ### 💻 Full Stack Developer
 
