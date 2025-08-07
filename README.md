@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/dQjQf1p3/Brown-Black-Geometric-Personal-Branding-Linked-In-Banner.png"/>
 
 # 👋 Hi, I'm Sadek Hossen
-### 💻 Frontend Developer
+### 💻 Full Stack Developer
 
 ---
 
