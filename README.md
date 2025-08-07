@@ -8,10 +8,10 @@
 
 ## 👨‍💻 About Me
 
-I’m a passionate frontend developer based in Bangladesh.  
-I love building responsive web apps with modern tech like React, Next.js, and Tailwind.  
+I’m a passionate Full Stack developer based in Bangladesh.  
+I love building responsive web sites with modern tech like React and Tailwind.  
 Currently exploring full-stack projects using MongoDB and Express.js.  
-Open to exciting freelance or full-time opportunities.
+Open to exciting freelance or remotely full-time opportunities.
 
 ---
 
@@ -33,7 +33,7 @@ Open to exciting freelance or full-time opportunities.
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
 ### 🧰 Backend & Tools  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)  
