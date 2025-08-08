@@ -50,6 +50,12 @@ Open to exciting freelance or remotely full-time opportunities.
 
 ---
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SadekHossen&theme=react)
+
+---
+
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadekhk)  
