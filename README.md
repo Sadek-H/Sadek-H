@@ -46,7 +46,7 @@ Open to exciting freelance or remotely full-time opportunities.
 
 ![Sadek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadekHossen&show_icons=true&theme=react)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SadekHossen&layout=compact&theme=react)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SadekHossen&theme=react)
+
 
 ---
 
