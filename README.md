@@ -47,22 +47,22 @@ Open to exciting freelance or remotely full-time opportunities.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadekHossen&theme=react" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sadek-H&theme=react" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadek-H&show_icons=true&theme=react" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadekHossen&show_icons=true&theme=react" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadekHossen&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadek-H&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
 
-
-
+---
 ### 📈 Contribution Graph
-[![Sadek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadekHossen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sadek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sadek-H&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
