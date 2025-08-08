@@ -59,6 +59,11 @@ Open to exciting freelance or remotely full-time opportunities.
 </p>
 
 
+
+
+### 📈 Contribution Graph
+[![Sadek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SadekHossen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## 🔗 Connect With Me
